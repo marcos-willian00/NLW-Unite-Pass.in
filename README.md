@@ -1,5 +1,5 @@
 <div align="center"> 
-<img src = "https://github.com/marcos-willian00/NLW-Unite-Pass.in/assets/152074631/f18226e3-fe8c-4a9e-b11e-f2c1839b541c" width = "400px">
+<img src = "https://github.com/marcos-willian00/NLW-Unite-Pass.in/assets/152074631/f18226e3-fe8c-4a9e-b11e-f2c1839b541c" width = "300px">
 </div>
 
 ## Pass.in
