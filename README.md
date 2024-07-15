@@ -41,7 +41,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
   - Se sim, pode prosseguir
   - Se não, visite o site do [NodeJS](https://nodejs.org/en) e faça a instalação!
 
-- Instalação das depensencias do projeto
+- Instalação das dependências do projeto
   - Antes de realizar os proximos comandos instale as dependências do projeto, isso vai garantir que ele funcione!
   - Este comando vai instalar todas as dependências de uma só vez!
 
